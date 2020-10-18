@@ -1,0 +1,16 @@
+html {
+  color: #111;
+  background: #fff;
+}
+body {
+  display: block;
+  margin: 8px;
+  padding-top: 30px;
+}
+div {
+  display: block;
+}
+#anony-nav {
+  width: 1080px;
+  margin: 0 auto 25px;
+}
